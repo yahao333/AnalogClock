@@ -1,0 +1,5 @@
+{
+  "name": "智能模拟时钟 (Smart Analog Clock)",
+  "description": "一个交互式的模拟时钟，允许用户编辑时间并观察指针变化。",
+  "requestFramePermissions": []
+}
